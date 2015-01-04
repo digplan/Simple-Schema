@@ -1,0 +1,4 @@
+{
+  "person": ["name!:String", "address:address", "age:Number"],
+  "address": ["number:Number"]
+}
